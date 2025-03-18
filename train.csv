@@ -1,0 +1,3 @@
+masks,images
+segmentation-dataset/Ground_Truth/1.png,segmentation-dataset/Training_Images/1.tif
+segmentation-dataset/Ground_Truth/2.png,segmentation-dataset/Training_Images/2.tif
